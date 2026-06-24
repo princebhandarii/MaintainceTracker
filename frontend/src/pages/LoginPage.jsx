@@ -90,15 +90,8 @@ export default function LoginPage() {
             </button>
           </form>
 
-          {/* Demo credentials */}
-          <div className="mt-6 p-4 bg-gray-50 dark:bg-gray-700/50 rounded-xl">
-            <p className="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-2">Demo Credentials</p>
-            <div className="space-y-1 text-xs text-gray-600 dark:text-gray-400">
-              <p>🔐 Super Admin: <code className="bg-gray-200 dark:bg-gray-600 px-1 rounded">superadmin / Admin@123</code></p>
-              <p>🏠 Wing A: <code className="bg-gray-200 dark:bg-gray-600 px-1 rounded">winga / WingA@123</code></p>
-              <p>🏠 Wing B–F: <code className="bg-gray-200 dark:bg-gray-600 px-1 rounded">wingb / WingB@123</code> etc.</p>
-            </div>
-          </div>
+         
+          
         </div>
       </div>
     </div>
